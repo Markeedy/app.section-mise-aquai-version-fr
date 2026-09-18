@@ -1,0 +1,6 @@
+{
+  "name": "SGPP - Gestion Carénage & Électricité",
+  "description": "Application professionnelle de gestion des mouvements de carénage, accès grue et consommation électrique pour la SGPP Unité de Tipaza.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
